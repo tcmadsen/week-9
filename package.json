@@ -1,0 +1,10 @@
+{
+  "name": "netlify-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "dependencies": {
+    "firebase": "^8.2.0"
+  }
+}
